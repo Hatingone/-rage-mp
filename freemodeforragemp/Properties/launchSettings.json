@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "freemodeforragemp": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Egork\\OneDrive\\Рабочий стол\\server-files\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\Egork\\OneDrive\\Рабочий стол\\server-files"
+    }
+  }
+}
